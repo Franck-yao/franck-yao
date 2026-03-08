@@ -44,7 +44,7 @@ When I'm not working with data, I enjoy exploring new technologies and staying o
 |---|---|---|
 | **[KYC Fraud Detection](https://github.com/Franck-yao)** | 4-input ResNet50 model for identity document fraud detection | PyTorch · ResNet50 · AWS |
 | **[Churn Prediction Pipeline](https://github.com/Franck-yao)** | Predictive churn models at D+7/D+14/D+21 for customer retention | Scikit-learn · Airflow · SQL |
-| **[Financial SMS ETL](https://github.com/Franck-yao)** | ETL pipeline with 200+ regex patterns across 15+ providers | AWS S3 · Python · Spark |
+| **[Financial SMS ETL](https://github.com/Franck-yao/sms-parser)** | ETL pipeline with 200+ regex patterns across 15+ providers | AWS S3 · Python · Spark |
 
 </div>
 
