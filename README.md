@@ -9,6 +9,8 @@
   <a href="mailto:yaoamemou996@gmail.com"><img src="https://img.shields.io/badge/Email-yaoamemou996@gmail.com-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+---
+
 ## 🚀 About Me
 
 I'm a versatile Data Scientist with hands-on expertise in **data engineering, machine learning, and business intelligence**. Based in Abidjan, Côte d'Ivoire, I've worked across fintech and engineering environments — from building fraud detection models to designing scalable Big Data architectures.
@@ -17,16 +19,36 @@ My focus is on building ML models that solve real business problems, automating 
 
 When I'm not working with data, I enjoy exploring new technologies and staying on the cutting edge of AI. I love the moment when a well-trained model catches something a human would miss.
 
+---
+
 ## 🔭 What I'm Currently Working On
 
 - **Fraud Detection (KYC):** Training a 4-input ResNet50 model to detect identity document fraud (CNI, passports, certificates) at Djamo.
 - **Churn Prediction:** Deploying predictive churn models (D+7, D+14, D+21) to drive customer retention strategies.
 - **Financial SMS Pipeline:** Building an ETL pipeline on AWS S3 with 200+ regex patterns to extract structured data from 15+ mobile money and banking providers.
 
+---
+
 ## 🌱 Currently Learning
 
 - Advanced deep learning architectures for document understanding.
 - MLOps best practices: model monitoring, versioning, and deployment at scale.
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| 🔍 Project | 📝 Description | 🛠️ Stack |
+|---|---|---|
+| **[KYC Fraud Detection](https://github.com/Franck-yao)** | 4-input ResNet50 model for identity document fraud detection | PyTorch · ResNet50 · AWS |
+| **[Churn Prediction Pipeline](https://github.com/Franck-yao)** | Predictive churn models at D+7/D+14/D+21 for customer retention | Scikit-learn · Airflow · SQL |
+| **[Financial SMS ETL](https://github.com/Franck-yao)** | ETL pipeline with 200+ regex patterns across 15+ providers | AWS S3 · Python · Spark |
+
+</div>
+
+---
 
 ## 🛠️ Technical Skillset
 
@@ -64,3 +86,32 @@ When I'm not working with data, I enjoy exploring new technologies and staying o
   <img src="https://img.shields.io/badge/French-Native-blue?style=flat">
   <img src="https://img.shields.io/badge/English-Professional-green?style=flat">
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franck-yao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-yao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franck-yao&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Franck-yao&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Franck-yao&color=2E9EF7&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
