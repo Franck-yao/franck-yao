@@ -47,7 +47,6 @@ When I'm not working with data, I enjoy exploring new technologies and staying o
 | **[RFM Segmentation](https://github.com/Franck-yao/rfm-segmentation)** | Automated pipeline to score & classify Djamo customers into 10 marketing segments from BigQuery transactional data | Python · BigQuery · GCP · Pandas |
 | **[Financial SMS ETL](https://github.com/Franck-yao/sms-parser)** | ETL pipeline with 200+ regex patterns across 15+ providers | AWS S3 · Python · Spark |
 | **[Credit Card Fraud Detection](https://github.com/Franck-yao/credit-card-fraud-detection)** | End-to-end fraud detection project with EDA, SMOTE, Random Forest (F1-score 0.87), served via FastAPI and deployed on Render | Scikit-learn · FastAPI · SMOTE · Render |
-| **
 </div>
 
 ---
